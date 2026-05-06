@@ -9,7 +9,6 @@
 - The System shall allow the User to log in with a valid username and password.
 - The System shall reject login attempts with invalid credentials.
 - The System shall restrict access to tasks unless the User is authenticated.
-
 - The System shall allow the User to create a task with a non-empty title.
 - The System shall reject task creation if the title is empty.
 - The System shall allow the User to view all existing tasks.
